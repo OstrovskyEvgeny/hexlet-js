@@ -1,5 +1,5 @@
 {
-  "name": "hexlet project Mind games",
+  "name": "hexlet-project-mind-games",
   "version": "1.0.0",
   "type": "module",
   "description": "set of five console games",
@@ -8,13 +8,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": {
-    "name" : "Ostrovskiy Evgeniy",
-    "email" : "itsmailforwork22@gmail.com"
-  },  
+    "name": "Ostrovskiy Evgeniy",
+    "email": "itsmailforwork22@gmail.com"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/OstrovskyEvgeny/hexlet-js.git",
     "directory": "hexlet-js"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
